@@ -1,6 +1,9 @@
 stop sign
-yield sign
+sign
 speed sign
 traffic light
 deer
 lane marking
+person
+car
+barrier
