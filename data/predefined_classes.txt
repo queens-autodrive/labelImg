@@ -1,15 +1,9 @@
-dog
+stop sign
+sign
+speed sign
+traffic light
+deer
+lane marking
 person
-cat
-tv
 car
-meatballs
-marinara sauce
-tomato soup
-chicken noodle soup
-french onion soup
-chicken breast
-ribs
-pulled pork
-hamburger
-cavity
+barrier
